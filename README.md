@@ -1,5 +1,7 @@
 ## PORTFOLIO:
-<a href="https://bryanportfolio-czngus8n7-bryans-projects-ce7304ff.vercel.app/" target="_blank"> PORTFOLIO </a>
+<a href="https://bryanportfolio-czngus8n7-bryans-projects-ce7304ff.vercel.app/" 
+   target="_blank" 
+   rel="noopener noreferrer">PORTFOLIO</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@bryandhaniel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryandhaniel) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@bryandhaniel3331) 
