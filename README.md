@@ -1,5 +1,5 @@
 ## PORTFOLIO:
-<a href="https://bryanportfolio-g4chohqjy-bryans-projects-ce7304ff.vercel.app/portfolio" 
+<a href="https://bryanportfolio-g4chohqjy-bryans-projects-ce7304ff.vercel.app/" 
    target="_blank" 
    rel="noopener noreferrer">PORTFOLIO</a>
 
