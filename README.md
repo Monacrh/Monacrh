@@ -25,6 +25,10 @@
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
+### 🕷️ Trying to do better
+![download (2)](https://github.com/user-attachments/assets/56174f6d-7125-429b-9981-0d445cacffd6)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Monacrh&icon=2&color=1)](https://visitcount.itsvg.in)
 
